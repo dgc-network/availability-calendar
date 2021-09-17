@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Availability Calendar can easily manage your working days availability, events, holidays, booking etc.
 
-== Description ==
+### == Description ==
 Wordpress Availability Calendar is a FREE responsive easy to use plugin. This plugin can use for different purposes like showing holiday list of your business, availability of your days, upcoming events, conference, rents apartments, available properties etc.  You can easily manage the colour codes of calendar according to your theme easily. You can also use shortcode to display separate calendars of each category.
  
 Availability Calendar allow user to customize and configure all the dispaly items. You can display this as a sliding calendar, single month calendar or display multiple months data in a single screen too.  
