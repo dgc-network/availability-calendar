@@ -1,6 +1,6 @@
 # availability-calendar
 
-## === Availability Calendar ===
+### === Availability Calendar ===
 Contributors: offshorewebmaster
 Tags: availability calendar, holiday, event, working days, personal calendar 
 Donate link: https://www.offshorewebmaster.com/donate.html
@@ -18,12 +18,12 @@ Wordpress Availability Calendar is a FREE responsive easy to use plugin. This pl
  
 Availability Calendar allow user to customize and configure all the dispaly items. You can display this as a sliding calendar, single month calendar or display multiple months data in a single screen too.  
 
-==shortcode:==
+### ==shortcode:==
  * Use this default shortcode "[availabilitycalendar]" to dispaly all category.
  * For displaying single category : [availabilitycalendar category="category_id"]
  * For displaying multiple category : [availabilitycalendar category="category_id_1,category_id_2"]
 
-==Features:==
+### ==Features:==
  * Enable or disable display of titles and description
  * Number Of Months To Display
  * Number of display for Desktop, Tablet, Mobile 
@@ -37,7 +37,7 @@ Availability Calendar allow user to customize and configure all the dispaly item
  * Multi language support
  * Separate calendars for each category using shortcode
  
-== Installation ==
+### == Installation ==
 
 From your WordPress dashboard
 
@@ -52,7 +52,7 @@ From your WordPress dashboard
 3. Activate the plugin through the ‘Plugins’ menu in WordPress.
 4. For customizing the plugin’s settings, click on Availability Calendar menu in WordPress left admin menu.
 
-== Frequently Asked Questions ==
+### == Frequently Asked Questions ==
 
 = How can I display the calendar? =
 Use this "[availabilitycalendar]" shortcode to display in content. For template use <?php echo do_shortcode('[availabilitycalendar]');?>;
