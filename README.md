@@ -1,15 +1,15 @@
 # availability-calendar
 
 ### === Availability Calendar ===
-Contributors: offshorewebmaster
-Tags: availability calendar, holiday, event, working days, personal calendar 
-Donate link: https://www.offshorewebmaster.com/donate.html
-Requires at least: 3.5
-Requires PHP : 5.4.4
-Tested up to: 5.8
-Stable tag: 1.2.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Contributors: offshorewebmaster
+ * Tags: availability calendar, holiday, event, working days, personal calendar 
+ * Donate link: https://www.offshorewebmaster.com/donate.html
+ * Requires at least: 3.5
+ * Requires PHP : 5.4.4
+ * Tested up to: 5.8
+ * Stable tag: 1.2.2
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Availability Calendar can easily manage your working days availability, events, holidays, booking etc.
 
