@@ -1,8 +1,8 @@
 <?php
 class OWAC_calendar_front {
 	
-    public function __construct()
-    {
+    public function __construct(){
+
 		global $wpdb;
 		add_shortcode('availabilitycalendar', array($this, 'OWAC_calendar_front_shortcode'));
 		$contactus_table = $wpdb->prefix."OWAC_event";
@@ -78,8 +78,8 @@ class OWAC_calendar_front {
 		return $return_value;
 	}
 	
-    public function OWAC_calendar_front_shortcode($atts = array())
-    {	
+    public function OWAC_calendar_front_shortcode($atts = array()) {
+			
 		$atts = shortcode_atts(array('category' => ''), $atts);
 		
 		if(!empty($atts['category'])){
