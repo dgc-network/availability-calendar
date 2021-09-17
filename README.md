@@ -1,6 +1,6 @@
 # availability-calendar
 
-# === Availability Calendar ===
+## === Availability Calendar ===
 Contributors: offshorewebmaster
 Tags: availability calendar, holiday, event, working days, personal calendar 
 Donate link: https://www.offshorewebmaster.com/donate.html
